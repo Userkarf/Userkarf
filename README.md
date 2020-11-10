@@ -10,9 +10,16 @@
 
 <li>📫 How to reach me: </li>
 
+
+
 </ul>
 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sérgio-adriani-6090a8164/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/sérgio-adriani-6090a8164/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/s%C3%A9rgio-adriani-6090a8164/)
+
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sergio_adriani/" height="22" title="Instagram" />](https://www.instagram.com/sergio_adriani/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:userkarf@gmail.com)](mailto:userkarf@gmail.com)
+
+- Thanks for visiting. 
 
 
