@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello there! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"> 
 
-<!--
-**Userkarf/Userkarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Sérgio Adriani, a newbie programmer.
 
-Here are some ideas to get you started:
+<ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<li>🤔 I’m looking for opportunities to learn and also show my knowledge</li>
+
+<li>💬 Ask me about anything! I would love to help :D </li>
+
+<li>📫 How to reach me: </li>
+
+</ul>
+
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sérgio-adriani-6090a8164/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/sérgio-adriani-6090a8164/) 
+[<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sergio_adriani/" height="22" title="Instagram" />](https://www.instagram.com/sergio_adriani/)
+
+
